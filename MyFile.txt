@@ -1,4 +1,8 @@
 This is some content.
 this is updated content.
 This is content updated in Git Hub.
+
 Update in local for Conflicts.
+
+Update in GitHub for Conflicts.
+
